@@ -1,0 +1,59 @@
+﻿生成启动时间为 2014/11/17 16:36:06。
+     1>项目“D:\ffmpegDemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\simplest_ffmpeg_transcoder.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Iinclude /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\simplest_ffmpeg_transcoder.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt simplest_ffmpeg_transcoder.cpp
+         simplest_ffmpeg_transcoder.cpp
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(142): warning C4305: “=”: 从“double”到“float”截断
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(220): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(363) : 参见“_snprintf”的声明
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(255): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(363) : 参见“_snprintf”的声明
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(336): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(363) : 参见“_snprintf”的声明
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(338): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(363) : 参见“_snprintf”的声明
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(379): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(447): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(466): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(471): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(483): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(484): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(485): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(486): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(510): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(568): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(578): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(580): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(588): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(629): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(456): warning C4101: “dec_func”: 未引用的局部变量
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(450): warning C4101: “k”: 未引用的局部变量
+     1>d:\ffmpegdemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.cpp(450): warning C4101: “l”: 未引用的局部变量
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ffmpegDemo\simplest_ffmpeg_transcoder\Debug\simplest_ffmpeg_transcoder.exe" /INCREMENTAL /NOLOGO /LIBPATH:lib avcodec.lib avformat.lib avutil.lib avdevice.lib avfilter.lib postproc.lib swresample.lib swscale.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\simplest_ffmpeg_transcoder.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\ffmpegDemo\simplest_ffmpeg_transcoder\Debug\simplest_ffmpeg_transcoder.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ffmpegDemo\simplest_ffmpeg_transcoder\Debug\simplest_ffmpeg_transcoder.lib" /MACHINE:X86 Debug\simplest_ffmpeg_transcoder.exe.embed.manifest.res
+         Debug\simplest_ffmpeg_transcoder.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\simplest_ffmpeg_transcoder.exe.embed.manifest" /manifest Debug\simplest_ffmpeg_transcoder.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         simplest_ffmpeg_transcoder.vcxproj -> D:\ffmpegDemo\simplest_ffmpeg_transcoder\Debug\simplest_ffmpeg_transcoder.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\simplest_ffmpeg_transcoder.unsuccessfulbuild”。
+         正在对“Debug\simplest_ffmpeg_transcoder.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\ffmpegDemo\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder\simplest_ffmpeg_transcoder.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.85
